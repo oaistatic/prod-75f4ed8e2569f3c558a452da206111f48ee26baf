@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{ZH as t,_R as n,gR as r,tU as i}from"./4813494d-l4t5njeos7wg6tki.js";import{Fnn as a,Mnn as o}from"./conversation-small-ncs0r144rwzxohlv.js";import{r as s,t as c}from"./dc53cebc-82ullwihq7ixp323.js";async function l({conversationId:e,messageId:r,onUnavailable:i}){let a=c(e,r);if(a==null){i();return}try{if((await o(t(e),{forceNetworkFetch:!0,includeMessageId:r})).is_archived){i();return}n(a)}catch{i()}}var u=e((()=>{s(),a(),i(),r()}));export{l as n,u as t};
+//# sourceMappingURL=4225aa43-cydhldl938uutqxf.js.map
