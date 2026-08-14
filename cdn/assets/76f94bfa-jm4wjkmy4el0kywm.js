@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";var t,n=e((()=>{t=e=>{let t=e.currentTarget;if(!(t instanceof HTMLElement))return;let n=t.ownerDocument.activeElement;n!=null&&n!==t.ownerDocument.body&&!t.contains(n)&&e.preventDefault()}}));export{t as n,n as t};
+//# sourceMappingURL=76f94bfa-jm4wjkmy4el0kywm.js.map

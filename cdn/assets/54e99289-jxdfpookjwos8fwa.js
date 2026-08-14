@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{D4 as t,O4 as n}from"./4813494d-l4t5njeos7wg6tki.js";var r,i,a=e((()=>{n(),r=t(()=>({rect:null})),i=e=>{if(!e)return r.setState({rect:null});let{height:t,left:n,top:i,width:a}=e.getBoundingClientRect(),{borderRadius:o}=getComputedStyle(e);r.setState({rect:{height:t,left:n,top:i,width:a,borderRadius:o}})}}));function o(e){if(e)return`textdoc-message-${e}`}var s=e((()=>{}));export{r as a,i,s as n,a as r,o as t};
+//# sourceMappingURL=54e99289-jxdfpookjwos8fwa.js.map
